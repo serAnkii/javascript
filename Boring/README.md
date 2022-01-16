@@ -10,16 +10,26 @@
    <li> and, I am The first creation of my creator</li>
   </ul>
   
-  i guess you know about me very well , if yes then click here to give me a try atleast  🥺 </h4><br>
- which is not a good thing for me coz it's the Firstmost project made by me 🤒.
-Well what can we do agh!!!... This repo is for those who don't know about it and want to be like me(i mean the ones who are thinking of making their first project of their life this one)🐣
-Feel free to make changes to it accordingly........
-Status-closed,just like them ->(🦖🐲🦕).
-  <abbr title="Hyper Text Transfer protocol">HTTP</abbr>
-<img src="image1.png" usemap="#web">  
-<map name="web">  
-<area shape="rect" coords="66,117,131,168" href="https://www.javatpoint.com/html-tutorial">  
-<area shape="rect" coords="199,36,277,85" href="https://www.javatpoint.com/css-tutorial">  
-<area shape="rect" coords="330,107,406,159" href="https://www.javatpoint.com/bootstrap-tutorial">  
-<area shape="rect" coords="199,185,267,236" href="https://www.javatpoint.com/javascript-tutorial">  
- </map>  
+  <h1>Install:-</h1><br>
+  <ul>
+    <li>
+        <ul><b>Manual method</b><br>
+          <li>1.Download the repository and unzip it.</li>
+           <li>2.Open the "index.html" in your browser and enjoy the game!</li>
+        </ul>
+     </li>
+     <li>
+       <ul><b>Direct method</b><br>
+         <li>Simply <a herf="www.google.com"><u>CLICK HERE</u></a></li>
+       </ul>
+  </ul>
+<img src="Image1.png">
+  
+  
+  
+  
+  
+  
+  
+  
+<!--   <abbr title="Hyper Text Transfer protocol">HTTP</abbr> -->
