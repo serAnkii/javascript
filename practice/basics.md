@@ -87,3 +87,14 @@ default:
     alert("Neither");
 }
 ```
+
+## # Create a loop that runs through each item in the fruits array.
+
+``` js
+const fruits = ["Apple", "Banana", "Orange"];
+for (x in fruits) {
+  console.log(x);
+}
+
+
+```
