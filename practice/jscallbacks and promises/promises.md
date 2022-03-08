@@ -22,3 +22,4 @@ myPromise.then(
   function(error) {myDisplayer(error);}
 );
 ```
+## importing a module returns a promise and then js resolves it => then the js calls the .then() function.
